@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 // Find the Elf carrying the most Calories. How many total Calories is that Elf carrying?
 
-public class question_one {
+public class day_one {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         // while you dont hit a line that is just a line break you are still processing one elf

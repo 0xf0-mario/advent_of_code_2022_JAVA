@@ -123,5 +123,6 @@ public class day_five {
         for (int i = 0; i < stackList.size(); i++) {
             System.out.println(stackList.get(i).peek());
         }
+        in.close();
     }
 }
