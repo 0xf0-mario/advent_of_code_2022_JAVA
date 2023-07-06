@@ -106,7 +106,7 @@ public class day_seven {
             }
 
         }
-
+        in.close();
         long totalSize = root.getSize();
         long unused = 70000000 - totalSize;
         long required = 30000000 - unused;
